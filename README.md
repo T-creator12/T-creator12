@@ -126,8 +126,8 @@ philosophy: "From pixel-level Figma drafts to production code that feels alive i
 <div align="center">
   <p>Feel free to reach out for collaborations, project inquiries, or just to say hi!</p>
 
-  <a href="https://instagram.com/teofiluscharis" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@teofiluscharis-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://instagram.com/teo_aja_dah" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@teo__aja__dah-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:teofiluscharis@gmail.com">
