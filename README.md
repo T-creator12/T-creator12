@@ -121,8 +121,20 @@ philosophy: "From pixel-level Figma drafts to production code that feels alive i
 
 ---
 
+### 📬 Connect & Socials
+
 <div align="center">
+  <p>Feel free to reach out for collaborations, project inquiries, or just to say hi!</p>
+
+  <a href="https://instagram.com/teofiluscharis" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@teofiluscharis-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:teofiluscharis@gmail.com">
+    <img src="https://img.shields.io/badge/Email-teofiluscharis@gmail.com-1d3fd1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+  <br/><br/>
   <p><i>"Code for logic, design for emotion, photography for memory."</i></p>
-  <a href="mailto:teofiluscharis@gmail.com"><img src="https://img.shields.io/badge/Get_In_Touch-teofiluscharis@gmail.com-1d3fd1?style=flat-square&logo=gmail&logoColor=white" alt="Contact Me" /></a>
-  <a href="https://github.com/T-creator12"><img src="https://img.shields.io/github/followers/T-creator12?label=Follow&style=flat-square&color=17251f" alt="Follow" /></a>
+  <a href="https://github.com/T-creator12"><img src="https://img.shields.io/github/followers/T-creator12?label=Follow%20on%20GitHub&style=flat-square&color=17251f" alt="Follow" /></a>
 </div>
